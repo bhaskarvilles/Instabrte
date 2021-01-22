@@ -31,7 +31,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 3.    ```$ python3 instabrte.py```
 
 
-#  --> I recommend a Kali Linux operating system:
+#  I recommend a Kali Linux operating system:
 - Kali Linux 2 or Kali 2020.4 rolling or latest kali
 - Cyborg Linux
 - Parrot Linux
@@ -44,7 +44,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 # BUGS ? 
 - Please Submit new issue 
 - Contact me
-- you can join me in [Telegram](https://t.me/bhaskarvilles)
+- you can join me in [Telegram](https://t.me/bhaskarvilles), [Instagram](https://www.instagram/bhaskarvilles)
 
 
 # Donations 
