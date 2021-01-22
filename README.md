@@ -1,4 +1,4 @@
-# </ instabrte./>
+#       </ instabrte./>
 
 
 
@@ -12,13 +12,16 @@ This program will brute force any Instagram account you send it its way. Just gi
 * ```The brute force of Instagram is working in a new format, just needs to add a proxy, and I didn't do it because of the limited time Open source, you can modify it.```
 
 * ```This tool will not steal your account. Codes are opensource you can check.```
+
+
 ## Legal disclaimer:
 
 * Usage of insTof for attacking targets without prior mutual consent is illegal. 
 It's the end user's responsibility to obey all applicable local, state and federal laws. 
 Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
-## Getting Started:
+
+# Getting Started:
 
 
 1.    ```$ git clone https://github.com/bhaskarvilles/instabrte.git```
@@ -28,7 +31,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 3.    ```$ python3 instabrte.py```
 
 
-#  I recommend a Kali Linux operating system:
+#  --> I recommend a Kali Linux operating system:
 - Kali Linux 2 or Kali 2020.4 rolling or latest kali
 - Cyborg Linux
 - Parrot Linux
@@ -38,10 +41,16 @@ Developers assume no liability and are not responsible for any misuse or damage 
 - Iphone - python ai (Might not work)
 
 
-## BUGS ? 
+# BUGS ? 
 - Please Submit new issue 
 - Contact me
 - you can join me in [Telegram](https://t.me/bhaskarvilles)
 
-## Donations 
+
+# Donations 
+
+<img src="https://i.imgur.com/3GN8vep.jpg?1"/>
+
+
+# Bitcoin Wallet adress :           ```195DLtMLCU78zedUDSkZQgUMzaEyffPwsN```
 
