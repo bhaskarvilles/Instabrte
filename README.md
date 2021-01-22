@@ -24,7 +24,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 # Getting Started:
 
 
-1.    ```$ git clone https://github.com/bhaskarvilles/instabrte.git```
+1.    ```$ git clone https://github.com/bhaskarvilles/Instabrte.git```
     `
 2.    ```$ cd instabrte```
     
