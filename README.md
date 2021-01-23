@@ -25,8 +25,8 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 
 1.    ```$ git clone https://github.com/bhaskarvilles/Instabrte.git```
-    `
-2.    ```$ cd instabrte```
+    
+2.    ```$ cd Instabrte```
     
 3.    ```$ python3 instabrte.py```
 
@@ -44,7 +44,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 # BUGS ? 
 - Please Submit new issue 
 - Contact me
-- you can join me in [Telegram](https://t.me/bhaskarvilles), [Instagram](https://www.instagram/bhaskarvilles)
+- you can join me in [Telegram](https://t.me/bhaskarvilles), [Instagram](https://www.instagram.com/bhaskarvilles)
 
 
 # Donations 
